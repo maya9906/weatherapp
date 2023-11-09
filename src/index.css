@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color:rgb(3, 140, 220);
+    display: flex;
+    padding: 4% 8%;
+    justify-content: center;
+
+
+}
